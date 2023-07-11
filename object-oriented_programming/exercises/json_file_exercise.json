@@ -1,0 +1,20 @@
+[
+  {
+    "kingdom": "animalia",
+    "phylum": "chordata",
+    "clas": "aves",
+    "order": "strigiformes"
+  },
+  {
+    "kingdom": "animalia",
+    "phylum": "chordata",
+    "clas": "mammalia",
+    "order": "rodentia"
+  },
+  {
+    "kingdom": "animalia",
+    "phylum": "chordata",
+    "clas": "mammalia",
+    "order": "carnivora"
+  }
+]

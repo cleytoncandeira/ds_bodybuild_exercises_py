@@ -20,5 +20,6 @@ echo "Resultado do comando 'git remote -v':"
 git remote -v
 
 # Executa o comando git push
+echo "Resultado do 'git push':"
 git push repositorio $branch
 
